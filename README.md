@@ -3,7 +3,7 @@
 # About
 - I design, build, and operate reliable cloud-native platforms with a focus on automation, observability, and operational excellence.
 - I aim to reduce manual work, improve availability, and accelerate delivery by building repeatable, well-documented platforms and runbooks.
-- Actively seeking roles in: DevOps Engineer · Cloud Engineer · Site Reliability Engineer · System Analyst · Technical Analyst.
+- Actively seeking roles in: DevOps Engineer · Cloud Engineer · Site Reliability Engineer · System Engineer · System Administration.
 
 
 # :cloud: My Cloud Projects:
