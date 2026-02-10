@@ -1,6 +1,6 @@
 
 # Hi there, I'm Wisnu 👋 
-### Aspiring Engineer | AWS Certified | System Design & Cloud Enthusiast | Specializing in Requirements, Root Cause Analysis & Incident Management
+### System Engineer | AWS Certified | System Design & Cloud Enthusiast | Specializing in Requirements, Root Cause Analysis & Incident Management
 
 <p align="left">
   <a href="https://id.linkedin.com/in/ngurahgedewisnugk"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
