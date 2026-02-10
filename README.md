@@ -1,5 +1,5 @@
 
-# Hi there, I'm Ngurah 👋 
+# Hi there, I'm Wisnu 👋 
 ### Aspiring Engineer | AWS Certified | System Design & Cloud Enthusiast | Specializing in Requirements, Root Cause Analysis & Incident Management
 
 <p align="left">
