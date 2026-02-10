@@ -1,92 +1,97 @@
-# Hi I'm Ngurah Gede Wisnu (ngurahgdewisnugk) 👋
 
-# About
-- I design, build, and operate reliable cloud-native platforms with a focus on automation, observability, and operational excellence.
-- I aim to reduce manual work, improve availability, and accelerate delivery by building repeatable, well-documented platforms and runbooks.
-- Actively seeking roles in: DevOps Engineer · Cloud Engineer · Site Reliability Engineer · System Engineer · System Administration.
+# Hi there, I'm Ngurah 👋 
+### Cloud / DevOps Engineer | Platform Engineer | SRE
 
+<p align="left">
+  <a href="https://id.linkedin.com/in/ngurahgedewisnugk"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:ngurahgedewisnugk@gmail.com"><img src="https://img.shields.io/badge/Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-# :cloud: My Cloud Projects:
-
-- ## AWS Re/Start Challange
-  - [AWS Core Services 3-Tier Layer Project](https://github.com/ngurahgdewisnugk/AWS-Re-start-Challange/blob/44067b1f12e8136a0289154bb780d57e0b1d9ac3/01.%20Core%20Services/3-Tier%20Project%20Portofolio.md)
-    
-- ## AWS NextWork Challange
-  - ### [AWS Beginner Challange](https://github.com/ngurahgdewisnugk/AWS-Beginners-Challange.git) 
-    - [x] Before you start: [Set Up an AWS Account](https://github.com/ngurahgdewisnugk/AWS-Beginners-Challange/blob/e0f74c6ffffbc37f94b588493b7d47c97fd17cef/Project-Portofolio/01.%20Set%20Up%20an%20AWS%20Account.md)
-	- [x] Day #1 [Host a Website on Amazon S3](https://github.com/ngurahgdewisnugk/AWS-Beginners-Challange/blob/e0f74c6ffffbc37f94b588493b7d47c97fd17cef/Project-Portofolio/02.%20Host%20a%20Static%20Website%20on%20Amazon%20S3.md)
-	- [x] Day #2 [Cloud Security with AWS IAM](https://github.com/ngurahgdewisnugk/AWS-Beginners-Challange/blob/e0f74c6ffffbc37f94b588493b7d47c97fd17cef/Project-Portofolio/03.%20Cloud%20Security%20with%20AWS%20IAM.md)
-	- [x] Day #3 [Build a Virtual Private Cloud](https://github.com/ngurahgdewisnugk/AWS-Beginners-Challange/blob/e0f74c6ffffbc37f94b588493b7d47c97fd17cef/Project-Portofolio/04.%20Build%20a%20Virtual%20Private%20Cloud%20on%20AWS.md)
-
- 
-# :card_file_box: My Database Projects:
-
-- ## [Database Administration Challange](https://github.com/ngurahgdewisnugk/DBA-Challange.git)
-  1. [Set Up Database Playground](https://github.com/ngurahgdewisnugk/DBA-Challange/tree/47703577b46a6a9ebc9d74cf9600fca1883403b7/01.%20Database%20Foundations_Intro%20to%20Databases/1.%20Set%20Up%20Database%20Playground)
-  2. [Create a Database](https://github.com/ngurahgdewisnugk/DBA-Challange/tree/47703577b46a6a9ebc9d74cf9600fca1883403b7/01.%20Database%20Foundations_Intro%20to%20Databases/2.%20Create%20a%20Database)
-  3. [Create Table Objects](https://github.com/ngurahgdewisnugk/DBA-Challange/tree/47703577b46a6a9ebc9d74cf9600fca1883403b7/01.%20Database%20Foundations_Intro%20to%20Databases/3.%20Create%20Table%20Objects)
-  4. [Add Data To A Table](https://github.com/ngurahgdewisnugk/DBA-Challange/tree/47703577b46a6a9ebc9d74cf9600fca1883403b7/01.%20Database%20Foundations_Intro%20to%20Databases/4.%20%20Add%20Data%20To%20A%20Table)
-  5. [Set Values with ORDER BY](https://github.com/ngurahgdewisnugk/DBA-Challange/tree/47703577b46a6a9ebc9d74cf9600fca1883403b7/01.%20Database%20Foundations_Intro%20to%20Databases/5.%20Set%20Values%20with%20ORDER%20BY)
-  6. [Data Manipulation](https://github.com/ngurahgdewisnugk/DBA-Challange/tree/47703577b46a6a9ebc9d74cf9600fca1883403b7/01.%20Database%20Foundations_Intro%20to%20Databases/6.%20Data%20Manipulation)  
-
-- ## Do Challange for [SQL Practice: Basic Queries](https://www.linkedin.com/learning/sql-practice-basic-queries) 
-	- [Challange Queries](https://github.com/ngurahgdewisnugk/DBA-Challange/tree/4db9b73caa40f1cbb415896f8a8adaeadd3f7cb1/03.%20SQL%20Practice%20-%20Basic%20Queries%20)
-
-- ## [SQL-Practice-Intermediate](https://github.com/ngurahgdewisnugk/SQL-Practice-Intermediate/tree/f54ba8f1cd9be8729d9ed3cecf3644c2bb6a8eab/code-challange)
-
-# :gear: My DevOps Projects:
- 
- ### Task : 
- [1. Introduction To Devops](https://github.com/ngurahgdewisnugk/devops22-dumbways-ngurahgedewisnugk/tree/27a72f1fda1206f78f9035a8204908f2f6ddeed3/stage-1/day1)
- 
- [2. Basic Linux Shell & Network](https://github.com/ngurahgdewisnugk/devops22-dumbways-ngurahgedewisnugk/tree/99a92486f45ef1e07aabfb1a32e7a87ad58e95da/stage-1/day2)
-
- [3. Version Control System with GIT](https://github.com/ngurahgdewisnugk/devops22-dumbways-ngurahgedewisnugk/tree/0cc71f14b6706cdb68f3eec39e35595657d2f0b4/stage-1/day3#task-day-3-version-control-system-with-git)
-
- [4. Manage Server with Terminal](https://github.com/ngurahgdewisnugk/devops22-dumbways-ngurahgedewisnugk/tree/0cc71f14b6706cdb68f3eec39e35595657d2f0b4/stage-1/day4)
-
- [5. Application In Server](https://github.com/ngurahgdewisnugk/devops22-dumbways-ngurahgedewisnugk/tree/0cc71f14b6706cdb68f3eec39e35595657d2f0b4/stage-1/day5)
-
- [6. Web Server & Load Balance](https://github.com/ngurahgdewisnugk/devops22-dumbways-ngurahgedewisnugk/tree/0cc71f14b6706cdb68f3eec39e35595657d2f0b4/stage-1/day6)
-<!--
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-   
+---
+### 👨‍💻 About Me
 
 
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a System Engineer transitioning into Cloud & DevOps. I specialize in AWS infrastructure, Kubernetes orchestration, and CI/CD automation. Currently focused on achieving AWS CCP and building scalable, automated cloud solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!--
-**ngurahgdewisnugk/ngurahgdewisnugk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) 
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) 
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) 
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
+![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+---
 
-Here are some ideas to get you started:
+### 🚀 Featured Project Showcases
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/ngurahgdewisnugk/7-Days-Devops-Challange.git">
+        <img src="https://camo.githubusercontent.com/ee60516bd4e82f5f5e5ee50b42304392a650ef56943b63331f928d26e34c4ad5/687474703a2f2f6c6561726e2e6e657874776f726b2e6f72672f6d6f746976617465645f7465616c5f7368795f686f672f75706c6f6164732f6177732d6465766f70732d636963645f6131623263336434"
+             alt="Java Web App Deployment with AWS CI/CD"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>Java Web App Deployment with AWS CI/CD</b><br/>
+      <sub>creating and deploying a Java-based web app using AWS, especially for CI/CD tools.</sub><br/>
+      🔗 <a href="https://github.com/ngurahgdewisnugk/nextwork-web-project.git">Repo</a>
+      <br/>
+      <sub>Tags: CloudFormation, Github, EC2, AWS CodeArtifact, AWS CodeBuild, AWS CodeDeploy, AWS CodePipeline, VSCode IDE </sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/ngurahgdewisnugk/AWS-Re-start-Challange/blob/44067b1f12e8136a0289154bb780d57e0b1d9ac3/01.%20Core%20Services/3-Tier%20Project%20Portofolio.md">
+        <img src="https://www.saksenengku.com/wp-content/uploads/2025/07/AWS-3-Tier-architecture.webp"
+             alt="AWS 3-Tier Architecture"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>AWS 3-Tier Architecture</b><br/>
+      <sub>design a robust, scalable, and secure infrastructure on AWS.</sub><br/>
+      🔗 <a href="https://github.com/ngurahgdewisnugk/AWS-Re-start-Challange/blob/44067b1f12e8136a0289154bb780d57e0b1d9ac3/01.%20Core%20Services/3-Tier%20Project%20Portofolio.md">Repo</a>
+      <br/>
+      <sub>Tags: Solution Architect, VPC , Subnets, Amazon RDS, Gateways, Security Groups </sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/ngurahgdewisnugk/AWS-Beginners-Challange.git">
+        <img src="https://camo.githubusercontent.com/1a0dd068232914bfa3f8d512fd74bf0fabcbaca5d04d6e49461ec3e6f1472331/687474703a2f2f6c6561726e2e6e657874776f726b2e6f72672f6d6f746976617465645f7465616c5f7368795f686f672f75706c6f6164732f6177732d626567696e6e6572732d6368616c6c656e67655f3233343573746872"
+             alt="AWS-Beginners-Challange"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>AWS-Beginners-Challange</b><br/>
+      <sub>Hosting a Static Website on S3, Configurate AWS IAM Security, Build a VPC on AWS</sub><br/>
+      🔗 <a href="https://github.com/ngurahgdewisnugk/AWS-Beginners-Challange.git">Repo</a>
+      <br/>
+      <sub>Tags: Networking, AWS, Security, S3 Buckets, VPC</sub>
+    </td>
+  </tr>
+</table>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📚 Beyond Coding
+- 📖 **Reading:** Technical deep-dives and professional growth.
+- ✈️ **Travelling & Touring:** Exploring the world on two wheels and beyond.
+
+---
+<p align="center">
+  <i>"System Engineer by trade, Cloud Architect by heart."</i>
+</p>
