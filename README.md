@@ -11,7 +11,7 @@
 ### 👨‍💻 About Me
 
 
-I am a System Engineer transitioning into Cloud & DevOps. I specialize in AWS infrastructure, Kubernetes orchestration, and CI/CD automation. Currently focused on achieving AWS CCP and building scalable, automated cloud solutions.
+I am a System Engineer transitioning into Cloud & DevOps. I specialize in AWS infrastructure, Kubernetes orchestration, and CI/CD automation. Currently focused on achieving AWS SAA and building scalable, automated cloud solutions.
 
 ---
 
